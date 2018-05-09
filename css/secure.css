@@ -1,0 +1,14 @@
+form {
+  width: 30%;
+  margin: 100px auto;
+  text-align: center;
+}
+#submitBtn {
+  margin-top: 10px;
+}
+form label {
+  font-size: 1.3em;
+}
+#lockIcon {
+  font-size: 3em;
+}

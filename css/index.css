@@ -1,0 +1,36 @@
+#contact {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  font-family: 'Droid Sans', sans-serif;
+}
+#contactLegend {
+    font-size: 30px;
+    color: #265a88;
+}
+footer {
+  text-align: center;
+  font-size: 180%;
+  margin-top: 100px;
+}
+#gitLogo {
+    width: 30px;
+    height: 30px;
+}
+#zaLogo {
+    width: 30px;
+    height: 35px;
+    border-radius: 15px;
+}
+#date {
+    font-size: 0.6em;
+}
+#header2 {
+  padding: 10px;
+}
+#astro_icon {
+  display: inline-block;
+  width: 50px;
+  cursor: pointer;
+}

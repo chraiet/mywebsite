@@ -1,0 +1,101 @@
+body {
+    background-color: grey;
+}
+.cv {
+    width: 780px;
+    /*  centrer le contenu  */
+    margin: auto;
+    font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+    font-size: 16px;
+    border: 5px solid #3388CC;
+    border-radius: 10px;
+    box-shadow: 2px 3px 4px black;
+    padding: 20px;
+    background-color: white;
+}
+.infophoto {
+    height: 205px;
+}
+.info {
+    float: left; 
+}
+
+.photo {
+    float: right;
+}
+#photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    transition: 0.3s;
+}
+#photo:hover {
+    width: 210px;
+    height: 210px;
+    transition: 0.3s;
+}
+
+.section {
+    margin-bottom: 70px; 
+    text-align: justify;
+    cursor: default;
+}
+
+.section:hover {
+    color: #00AA22;
+}
+
+.sec-gauche {
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sec-droite {
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+h2 {
+    font-size: 28px;
+    color: #3388BB;
+    border-bottom: 3px solid #3388DD;
+}
+
+.titre {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#format-gauche p {
+    margin-bottom: 35px;
+}
+
+#format-exp p {
+    margin-bottom: 33px;
+}
+
+#format-anglais {
+    margin-top: 348px;
+}
+
+#format-droite-info p{
+    margin-top: 30px;
+}
+
+#format-connaissance {
+    padding-top: 5px;
+}
+
+strong {
+    font-size: 22px;
+}
+
+#car {
+    width: 15px;
+    height: 15px;
+}
+
+#personal_projects {
+    padding-left: 20px;
+}
